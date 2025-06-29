@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn – SATYA VAISHNAVI CHAKKA](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satya-vaishnavi-chakka-447a76108/)
+[![LinkedIn – SATYA VAISHNAVI CHAKKA](https://img.shields.io/badge/LinkedIn–SATYA%20VAISHNAVI%20CHAKKA-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satya-vaishnavi-chakka-447a76108/)
 
 🌟 Excited to collaborate, create, and innovate!
 
